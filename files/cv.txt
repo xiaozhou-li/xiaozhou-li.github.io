@@ -1,0 +1,186 @@
+Personal Information
+
+Name: Xiaozhou Li, Ph.D.
+
+Email: lixiaozhou725@gmail.com
+
+Gender: Male
+
+Date of Birth: July 25, 1984
+
+Nationality: Finland
+
+Google Scholar: https://scholar.google.com/citations?user=ubfvxGwAAAAJ
+
+Education Background
+
+Ph.D. in Computer Science, Tampere University (2014–2022)
+Thesis: Data-Driven Analysis towards Monitoring Software Evolution by Continuously Understanding Changes in Users’ Needs
+Supervisors: Dr. Zheying Zhang, Prof. Konstantinos Stefanidis
+
+M.Sc. in Internet and Game Studies, University of Tampere (2013–2017)
+Thesis: Motivation-oriented Scenario-based Gamification Design Method using the User Requirements Notation Modeling
+Supervisors: Prof. Juho Hamari, Dr. Jonna Koivisto
+
+M.Sc. in Software Engineering, University of Tampere (2009–2013)
+Thesis: Research on Agile Process Models in Mobile Application Maintenance
+Supervisors: Dr. Zheying Zhang, Prof. Jyrki Nummenmaa
+Minor: Asian Studies in Business and Business Culture
+
+B.Sc. in Software Engineering, Northeastern University (China) (2003–2007)
+Thesis: Research and Design of Internet Grading System – Answer Sheet Information Processing Subsystem
+Supervisor: Prof. Bin Zhang
+
+Employment
+
+Research Fellow (RTDa) — Free University of Bozen-Bolzano (Feb 2025–Present)
+Tasks: Research work, thesis supervision, funding application, teaching
+
+Postdoctoral Researcher — University of Oulu (Jan 2023–Jan 2025)
+Tasks: Research work, thesis supervision, funding application, teaching
+
+Postdoctoral Researcher — Tampere University (Apr 2022–Jun 2023)
+Tasks: Research work, thesis supervision, funding application, teaching assistance
+
+Doctoral Researcher — Tampere University (Oct 2020–Apr 2022)
+Tasks: Research work, thesis supervision, funding application, teaching assistance
+
+Researcher & Teaching Staff — University of Tampere (Jan 2017–Dec 2018)
+Tasks: Research, thesis supervision, exam supervision, and teaching assistance
+
+Project Manager — TAUCHI (Sep 2010–Feb 2011)
+Project: Input Device Testing Environment built on FPS Game
+
+Software Designer & Developer — Demola New Factory (May–Aug 2010)
+Project: Wearable Computing
+
+Software Designer & Developer — University of Tampere (Sep 2009–Feb 2010)
+Project: TAMBIC: Tampere Bi-lingual Corpus
+
+Skills
+
+Languages: Chinese (Native), English (C1), Finnish (B1), Japanese (N4)
+
+Coding: Python, C, C++, VB, SQL, PHP, Java, C#
+
+Databases: MySQL, PostgreSQL
+
+Web Dev: HTML, CSS, JavaScript, JQuery
+
+Miscellaneous: Scrum & Kanban, Web Crawling, Data Science, Game & Gamification Design, MS Office, Photoshop, Generative AI & Prompt Engineering
+
+Awards and Certificates
+
+Awards
+
+2019 — Best Paper, GamiFIN Conference
+
+2015 — Best Paper, ICSEA Conference
+
+Certificates
+
+2024 — Generative AI for Software Developers (IBM, Coursera)
+
+2024 — Generative AI Fundamentals (IBM, Coursera)
+
+2020 — Mathematics for Machine Learning (Imperial College London, Coursera)
+
+2019 — IBM Data Science Professional Certificate (IBM, Coursera)
+
+2019 — Introduction to TensorFlow for AI, ML, and DL (deeplearning.ai, Coursera)
+
+2019 — Finnish National Certificate of Language Proficiency (Intermediate Level)
+
+Research Funding
+
+EU Horizon Funding Applications (2023–2024)
+
+Business Finland Application (2023)
+
+CNESS Research Funding (2022)
+
+Ulla Tuominen Funding (2020)
+
+Faculty Doctoral Student Funding (2017–2018)
+
+SKR Pirkanmaa Regional Funding (2018, 2020)
+
+Koneen Säätiö Funding (2017)
+
+Academy of Finland Funding (2014, 2015, 2017, 2019, 2023)
+
+
+
+Community Service
+
+2025 
+
+Web Chair. The 11th European Conference On Service-Oriented And Cloud Computing (ESOCC)
+PC member. The 33rd International Conference on Information Systems Development (ISD)
+PC member. The 26th International Conference on Product-Focused Software Process Improvement (PROFES)
+
+2024 
+
+PC member. The 18th International IEEE Conference On Service-Oriented System Engineering (IEEESOSE)
+PC member. The 32nd International Conference on Information Systems Development (ISD)
+Track Co-Chair. The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+Workshop Co-Chair. The 1st Workshop on Edge Software Architecture (ESA)
+
+2023 
+
+Proceeding Chair. The 24th International Conference on Product-Focused Software Process Improvement (PROFES)
+Proceeding Chair. The 49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+Proceeding Chair. The 16th International Conference on the Quality of Information and Communications Technology (QUATIC)
+Web Chair & Volunteer. The International Conference on Evaluation and Assessment in Software Engineering (EASE)
+
+2021 
+Volunteer. International Conference on Software Engineering (ICSE).
+
+Teaching Activities
+
+2025 
+Lecturer. Introduction to Programming (UG). Free University of Bozen-Bolzano.
+Lecturer. Software Project Management (UG). Free University of Bozen-Bolzano.
+
+2024 
+Lecturer. Databases (UG). University of Oulu/Nanjing Institute of Technology.
+Lecturer. Software Development, Maintenance and Operations (Grad). University of Oulu.
+
+2023 
+Lecturer. Databases (UG). University of Oulu/Nanjing Institute of Technology.
+Lecturer. Software Development, Maintenance and Operations (Grad). University of Oulu.
+Teaching Assistant. Software Product and Process Management (Grad). Tampere University
+
+2022 
+Teaching Assistant. Software Product and Process Management (Grad). Tampere University
+
+2021
+Teaching Assistant. Requirements Engineering (Grad). Tampere University.
+
+
+
+
+References
+
+Prof. Konstantinos Stefanidis — Tampere University, Finland
+📧 konstantinos.stefanidis@tuni.fi
+ | 📞 +358 504 174 121
+
+Assoc. Prof. Andrea Janes — Free University of Bozen-Bolzano, Italy
+📧 andrea.janes@unibz.it
+ | 📞 +39 339 288 1689
+
+Assoc. Prof. Tomas Cerny — University of Arizona, USA
+📧 tcerny@arizona.edu
+ | 📞 +1 520 621 2434
+
+Publication List (Summary)
+
+Journals (13 items):
+Covering software architecture, microservices, AI in software engineering, OSS evaluation, and software quality (2020–2025).
+
+Conferences (38 items):
+Including IEEE, ACM, Springer, and Euromicro venues, spanning from 2014 to 2025.
+
+Theses (3):
+Ph.D. (2022), M.Sc. (2017), M.Sc. (2013) — all completed at Tampere University

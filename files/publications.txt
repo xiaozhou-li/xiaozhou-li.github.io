@@ -1,0 +1,113 @@
+Journal Articles
+
+Esposito, M., Li, X., Moreschini, S., Ahmad, N., Cerny, T., Vaidhyanathan, K., Lenarduzzi, V., & Taibi, D. (2025). Generative AI for software architecture: Applications, trends, challenges, and future directions. Journal of Systems and Software.
+
+Li, X., d’Aragona, D. A., Cerny, T., Lenarduzzi, V., Taibi, D., & Janes, A. (2025). Exploring microservice ownership and organizational coupling in open-source projects: An empirical study. Computing, 107(4), 1–35.
+
+Moreschini, S., Pour, S., Lanese, I., Balouek, D., Bogner, J., Li, X., Pecorelli, F., Soldani, J., Truyen, E., & Taibi, D. (2025). AI techniques in the microservices life-cycle: A systematic mapping study. Computing, 107(4), 100.
+
+Schneider, S., Bakhtin, A., Li, X., Soldani, J., Brogi, A., Cerny, T., Scandariato, R., & Taibi, D. (2025). Comparison of static analysis architecture recovery tools for microservice applications. Empirical Software Engineering, 30(5), 128.
+
+Abdelfattah, A. S., Cerny, T., Yero Salazar, J., Li, X., Taibi, D., & Song, E. (2024). Assessing evolution of microservices using static analysis. Applied Sciences, 14(22), 10725.
+
+Su, R., Li, X., & Taibi, D. (2024). From microservice to monolith: A multivocal literature review. Electronics.
+
+Janes, A., Li, X., & Lenarduzzi, V. (2023). Open tracing tools: Overview and critical comparison. Journal of Systems and Software, 204, 111793. https://doi.org/10.1016/j.jss.2023.111793
+
+Li, X., Moreschini, S., Zhang, Z., Palomba, F., & Taibi, D. (2023). The anatomy of a vulnerability database: A systematic mapping study. Journal of Systems and Software, 201, 111679. https://doi.org/10.1016/j.jss.2023.111679
+
+Li, X., Moreschini, S., Pecorelli, F., & Taibi, D. (2022). OSSARA: Abandonment risk assessment for embedded open source components. IEEE Software, 39(4), 48–53.
+
+Li, X., Moreschini, S., Zhang, Z., & Taibi, D. (2022). Exploring factors and metrics to select open source software components for integration: An empirical study. Journal of Systems and Software, 188, 111255. https://doi.org/10.1016/j.jss.2022.111255
+
+Moreschini, S., Pecorelli, F., Li, X., Naz, S., Hästbacka, D., & Taibi, D. (2022). Cloud continuum: The definition. IEEE Access.
+
+Li, X., Zhang, Z., & Stefanidis, K. (2021). A data-driven approach for video game playability analysis based on players’ reviews. Information, 12(3), 129.
+
+Li, X., Zhang, B., Zhang, Z., & Stefanidis, K. (2020). A sentiment-statistical approach for identifying problematic mobile app updates based on user reviews. Information, 11(3), 152.
+
+Conference Papers
+
+Schneider, S., Bakhtin, A., Li, X., Soldani, J., Brogi, A., Cerny, T., Scandariato, R., & Taibi, D. (2024). Comparison of static analysis architecture recovery tools for microservice applications. In 21st International Conference on Mining Software Repositories (MSR 2024) (Registered Report).
+
+Li, X., Ahmad, N., Cerny, T., Janes, A., Lenarduzzi, V., & Taibi, D. (2025). Toward organizational decoupling in microservices through key developer allocation. In 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C) (pp. 16–20). IEEE.
+
+Righi, A., Aneggi, A., Li, X., & Janes, A. (2025). Demonstration paper: Avoiding wrong microservice cuts via git metadata analysis. In 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE) (pp. 51–55). IEEE.
+
+Akbar, M. A., Esposito, M., Hyrynsalmi, S., Kumar, K. D., Lcnarduzzi, V., Li, X., Mehraj, A., Mikkonen, T., Moreschini, S., Mäkitalo, N., et al. (2024). 6gsoft: Software for edge-to-cloud continuum. In 50th Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2024) (pp. 499–506). IEEE.
+
+Bakhtin, A., Li, X., & Taibi, D. (2024). Temporal community detection in developer collaboration networks of microservice projects. In 18th European Conference on Software Architecture (ECSA 2024).
+
+d’Aragona, D. A., Bakhtin, A., Li, X., Su, R., Adams, L., Aponte, E., Boyle, F., Boyle, P., Koerner, R., Lee, J., Tian, F., Wang, Y., Nyyssölä, J., Quevedo, E., Md Rahaman, S., Abdelfattah, A. S., Mäntylä, M., Cerny, T., & Taibi, D. (2024). A dataset of microservices-based open-source projects. In 21st International Conference on Mining Software Repositories (MSR 2024).
+
+d’Aragona, D. A., Li, X., & Janes, A. (2024). Understanding the causes of microservice logical coupling: An exploratory study. In The 1st International Workshop New Trends in Software Architecture (SATrends 2024).
+
+Li, X., & Albano, M. (2024). A framework for microservice organizational structure optimization. In The 1st International Workshop New Trends in Software Architecture (SATrends 2024).
+
+Li, X., Calefato, F., Lenarduzzi, V., & Taibi, D. (2024). Toward a collaboration optimization in microservice projects based on developer personalities. In The 21st International Conference on Software Architecture (ICSA 2024).
+
+Li, X., Lenarduzzi, V., & Taibi, D. (2024). A data-driven analysis of player personalities for different game genres. In 1st Foundations of Applied Software Engineering for Games Workshop (FaSE4Games’24).
+
+Su, R., & Li, X. (2024). Modular monolith: Is this the trend in software architecture? In The 1st International Workshop New Trends in Software Architecture (SATrends 2024).
+
+Zhao, S., Xia, X., Fitzgerald, B., Li, X., Lenarduzzi, V., Taibi, D., Wang, R., Wang, W., & Tian, C. (2024). Motivating open source collaborations through social network evaluation: A gamification practice from Alibaba. In 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP 2024).
+
+Allen, C., Li, X., Elsayed, A., Cerny, T., & Taibi, D. (2023). Comparing cost and performance of microservices and serverless in AWS: EC2 vs Lambda. In Southwest Data Science Conference (SDSC 2023).
+
+Amoroso d’Aragona, D., Li, X., Cerny, T., Janes, A., Lenarduzzi, V., & Taibi, D. (2023). One microservice per developer: Is this the trend in OSS? In European Conference on Service-Oriented and Cloud Computing (pp. 19–34). Springer.
+
+Huizinga, A., Parker, G., Elsayed, A., Li, X., Cerny, T., & Taibi, D. (2023). Detecting microservice anti-patterns using interactive service call graphs: Effort assessment. In Southwest Data Science Conference (SDSC 2023).
+
+Li, X., d’Aragona, D. A., & Taibi, D. (2023). Evaluating microservice organizational coupling based on cross-service contribution. In International Conference on Product-Focused Software Process Improvement (PROFES 2023) (pp. 435–450). Springer.
+
+Li, X., Elsayed, A., Su, R., Lee, J., Aponte, E., Koerner, R., Cerny, T., & Taibi, D. (2023). Metrics and models for developer collaboration analysis in microservice-based systems: A review. In 17th International Conference on Software Process and Product Measurement (MENSURA 2023).
+
+Li, X., Elsayed, A., Yero, J., d’Aragona, D. A., Cerny, T., & Taibi, D. (2023). Analyzing organizational structure of microservice projects based on contributor collaboration. In 17th IEEE International Conference on Service-Oriented System Engineering (IEEE SOSE 2023). IEEE.
+
+Su, R., Li, X., & Taibi, D. (2023). Back to the future: From microservice to monolith. In 5th International Conference on Microservices (Microservices 2023).
+
+Li, X., Moreschini, S., Filatova, A., & Taibi, D. (2022). Knowledge management challenges for AI quality. In IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022) (pp. 1295–1296). IEEE.
+
+Lomio, F., Moreschini, S., Li, X., & Lenarduzzi, V. (2022). Anomaly detection in cloud-native systems. In 48th Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2022).
+
+Moreschini, S., Pecorelli, F., Li, X., Naz, S., Albano, M., Hästbacka, D., & Taibi, D. (2022). Cognitive cloud: The definition. In 19th International Conference on Distributed Computing and Artificial Intelligence. Springer.
+
+Li, X., & Moreschini, S. (2021). OSS PESTO: An open source software project evaluation and selection tool. In IFIP International Conference on Open Source Systems (pp. 42–50). Springer.
+
+Li, X. (2020). Towards factor-oriented understanding of video game genres using exploratory factor analysis on Steam game tags. In 2020 IEEE International Conference on Progress in Informatics and Computing (PIC) (pp. 207–213). IEEE.
+
+Li, X., & Zhang, B. (2020). A preliminary network analysis on Steam game tags: Another way of understanding game genres. In Proceedings of the 23rd International Conference on Academic Mindtrek (pp. 65–73).
+
+Lu, C., Li, X., Nummenmaa, T., Zhang, Z., & Peltonen, J. (2020). Patches and player community perceptions: Analysis of No Man’s Sky Steam reviews. In DiGRA’20—Proceedings of the 2020 DiGRA International Conference.
+
+Lu, C., Peltonen, J., Nummenmaa, T., Li, X., & Zhang, Z. (2020). What makes a trophy hunter? An empirical analysis of Reddit discussions. In 4th International GamiFIN Conference (GamiFIN 2020).
+
+Zhang, B., & Li, X. (2020). Bibliography-based social network analysis and geo-location map of gamification. In European Conference on Games Based Learning.
+
+Li, X. (2019). Research on software project developer behaviors with k-means clustering analysis. In SSSME 2019: Joint Proceedings of the Summer School on Software Maintenance and Evolution. CEUR-WS.
+
+Li, X., Lu, C., Peltonen, J., & Zhang, Z. (2019). A statistical analysis of Steam user profiles towards personalized gamification. In 3rd International GamiFIN Conference (GamiFIN 2019). CEUR-WS.
+
+Stratigi, M., Li, X., Stefanidis, K., & Zhang, Z. (2019). Ratings vs. reviews in recommender systems: A case study on the Amazon Movies dataset. In European Conference on Advances in Databases and Information Systems (pp. 68–76). Springer.
+
+Li, X. (2018). A method to support gamification design practice with motivation analysis and goal modeling. In Proceedings of the 2nd International GamiFIN Conference (GamiFIN 2018). CEUR-WS.
+
+Li, X., Zhang, Z., & Poranen, T. (2018). Scenario-driven continuous mobility requirements analysis in mobile app maintenance. In 4th Workshop on Continuous Requirements Engineering (CRE Workshop). CEUR-WS.
+
+Li, X., Zhang, Z., & Stefanidis, K. (2018). Mobile app evolution analysis based on user reviews. In New Trends in Intelligent Software Methodologies, Tools and Techniques (pp. 773–786). IOS Press.
+
+Li, X., Zhang, Z., & Stefanidis, K. (2018). Sentiment-aware analysis of mobile apps user reviews regarding particular updates. In The 13th International Conference on Software Engineering Advances (ICSEA 2018) (p. 109).
+
+Li, X., Upreti, B., & Zhang, Z. (2016). Mobility requirements engineering tool (MORE). In 2016 IEEE 24th International Requirements Engineering Conference (RE) (pp. 409–410). IEEE.
+
+Li, X., & Zhang, Z. (2015). A user-app interaction reference model for mobility requirements analysis. In ICSEA 2015: The Tenth International Conference on Software Engineering Advances (pp. 170–177).
+
+Li, X., Zhang, Z., & Nummenmaa, J. (2014). Models for mobile application maintenance based on update history. In 2014 9th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE) (pp. 1–6). IEEE.
+
+Theses
+
+Li, X. (2022). Data-driven analysis towards monitoring software evolution by continuously understanding changes in users’ needs (Doctoral thesis). Tampere University.
+
+Li, X. (2017). Motivation-oriented scenario-based gamification design method using the User Requirements Notation modeling (Master’s thesis). University of Tampere.
+
+Li, X. (2013). Research on agile process models in mobile application maintenance (Master’s thesis). University of Tampere.
